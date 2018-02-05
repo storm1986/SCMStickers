@@ -1,7 +1,10 @@
 {
   "stickers" : [
     {
-      "filename" : "jpg.sticker"
+      "filename" : "simpsons.sticker"
+    },
+    {
+      "filename" : "minions.sticker"
     }
   ],
   "info" : {
